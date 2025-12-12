@@ -9,7 +9,7 @@ import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.data.binder.Binder;
 
-/* Create custom UI Componentssss.
+/* Create custom UI Componentssssss.
  *
  * Create your own Vaadin components by inheritance and composition.
  * This is a form component inherited from VerticalLayout. Use
